@@ -1,0 +1,98 @@
+/*----------Header----------*/
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+
+
+#top-content {
+	margin:0 auto;
+	width:900px;
+	border-left:1px solid #f0e9eb;
+	border-right:1px solid #f0e9eb;
+  background-color: ;
+}
+
+#nav {
+  	margin:0 1px;
+
+}
+
+#nav {
+	background:##2C3E50;
+	padding:10px 20px;
+	text-align: center;
+	color: white;
+}
+
+#nav a {
+	margin: 0 10px;
+}
+
+#nav a:visited, #nav a:link {
+	text-decoration:none;
+	color:white;
+
+}
+
+#nav a:hover {
+	text-decoration:underline;
+	color:white;
+}
+
+
+#bg {
+	height:36px;
+	background:url('http://img840.imageshack.us/img840/9886/87926428.gif') repeat-x;
+}
+
+
+
+/*----------Photo-----------*/
+
+#photo {
+  background-size: auto;
+  position: relative;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+
+}
+
+#photo img {
+   height: 27em;
+   width: 30em;
+   text-align: center;
+}
+
+
+/*----------Bio-------------*/
+
+.bio {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  border-color: white;
+  width: 50%;
+  height: 100%;
+  color: white;
+  box-sizing:border-box;
+  margin-left: 1em;
+
+}
+
+/*----------Contact---------*/
+
+.contact {
+  color: white;
+
+}
+
+/*----------Footer----------*/
+
+
+footer {
+  color: white;
+}
